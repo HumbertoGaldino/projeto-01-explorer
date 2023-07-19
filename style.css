@@ -35,7 +35,7 @@ footer {
     width: 568px;
     padding: 8px 0;
     border-top: 1px solid #ECEFF2;
-    margin: 0 auto;
+    margin: 0 auto 33px;
 }
 
 footer a {
@@ -46,4 +46,10 @@ footer a {
 
 footer a:first-child {
     margin-right: 28px;
+}
+
+#balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
